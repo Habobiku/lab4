@@ -1,0 +1,13 @@
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.csproj.AssemblyReference.cache
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.AssemblyInfoInputs.cache
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.AssemblyInfo.cs
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.csproj.CoreCompileInputs.cache
+/Users/Habob/Projects/lab4/lab4/bin/Debug/netcoreapp3.1/lab4.deps.json
+/Users/Habob/Projects/lab4/lab4/bin/Debug/netcoreapp3.1/lab4.runtimeconfig.json
+/Users/Habob/Projects/lab4/lab4/bin/Debug/netcoreapp3.1/lab4.runtimeconfig.dev.json
+/Users/Habob/Projects/lab4/lab4/bin/Debug/netcoreapp3.1/lab4.dll
+/Users/Habob/Projects/lab4/lab4/bin/Debug/netcoreapp3.1/lab4.pdb
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.dll
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.pdb
+/Users/Habob/Projects/lab4/lab4/obj/Debug/netcoreapp3.1/lab4.genruntimeconfig.cache
